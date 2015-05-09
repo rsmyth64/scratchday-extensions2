@@ -10,7 +10,7 @@
 
     ext.my_first_block = function() {
         // Code that gets executed when the block is run
-        alert("Hello World!  It's Scratch Day!!");
+        alert("Hello World!  Now I have to learn javascript for real!!");
     };
 
     // Block and block menu descriptions
